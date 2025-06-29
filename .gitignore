@@ -13,6 +13,11 @@
 *.pyc
 *~
 build/*
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
 Makefile.target
 Makefile.*.defines
 tools/doxygen/html
